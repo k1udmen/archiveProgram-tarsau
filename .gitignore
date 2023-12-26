@@ -1,7 +1,7 @@
 # Ignore compiled files
 *.o
 *.out
-tarsau
 
 # Ignore generated files and directories
-archiveProgram-tarsau
+bin/
+obj/
